@@ -57,7 +57,7 @@ RareTracker.RegisterRaresForModule({
     ["plugin_name_abbreviation"] = "WorldBosses",
     ["entities"] = {
         --npc_id = {name, quest_id, coordinates}
-        [87493] = {L[87493], 37474, nil}, -- "Rukhmar"
+        [83746] = {L[83746], 37464, nil}, -- "Rukhmar"
     }
 })
 
