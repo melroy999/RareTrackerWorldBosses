@@ -60,5 +60,3 @@ RareTracker.RegisterRaresForModule({
         [83746] = {L[83746], 37464, nil}, -- "Rukhmar"
     }
 })
-
-RareTracker:MarkModuleRegistrationFinished("RareTrackerWorldBosses")
